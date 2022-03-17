@@ -1,1 +1,59 @@
-theme: jekyll-theme-minimal
+layout: page
+title: "Home"
+permalink: /home/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Home</title>
+</head>
+
+<body>
+<header>
+    <h1>JANUS' MARKET</h1>
+        <nav>
+            <a href="home.html" class="pagelink">Home</a>
+            <a href="product.html" class="pagelink">Marketplace</a>
+            <a href="contact.html" class="pagelink">Contact Me</a>
+        </nav>
+</header>
+    <main class="slider">
+        <img src="weblogoslider/jANUSemblem.png" alt="emblem" class="slider-img1">
+        <img src="weblogoslider/red.png" alt="emblem" class="slider-img2">
+        <img src="weblogoslider/violet.png" alt="emblem" class="slider-img3">
+        <img src="weblogoslider/blue.png" alt="emblem" class="slider-img4">
+        <img src="weblogoslider/liteblue.png" alt="emblem" class="slider-img5">
+        <img src="weblogoslider/green.png" alt="emblem" class="slider-img6">
+        <img src="weblogoslider/yellow.png" alt="emblem" class="slider-img7">
+        <img src="weblogoslider/jANUSemblem.png" alt="emblem" class="slider-img8">
+    </main>
+    <footer>
+    <div>
+        <a href="#"><img src="facebook.png" alt="">Facebook</a>
+        <a href="#"><img src="insta.png" alt="">Instagram</a>
+        <a href="#"><img src="twitter.png" alt="">Twitter</a>
+    </div>
+    <h1>JANUS' MARKET</h1>
+    <p>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+            <img style="border:0;width:88px;height:31px"
+                src="http://jigsaw.w3.org/css-validator/images/vcss"
+                alt="Valid CSS!" />
+        </a>
+    </p>
+    <p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+        </a>
+    </p>
+         
+</footer>
+</body>
+
+</html>
